@@ -1,4 +1,4 @@
-Hello Git
+Hello from main branch
 I am learning Git
 This line was added after staging
 This change was made after publishing to GitHub
