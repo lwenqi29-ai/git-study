@@ -1,4 +1,4 @@
-Hello from main branch
+Hello from merged branches
 I am learning Git
 This line was added after staging
 This change was made after publishing to GitHub
